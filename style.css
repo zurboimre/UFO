@@ -1,0 +1,26 @@
+body{
+    background: url('./img/2474215.jpg') no-repeat;
+    background-size:cover;
+    
+}
+.space{
+    position: relative;
+}
+.ufo{
+    background: url('./img/UFO.gif');
+    width:300px;
+    height: 300px;
+    position: absolute;
+    left:100px;
+    top:0;
+}
+.ufo:hover{
+    background: url('./img/UFO-cry.gif');
+}
+.robban{
+    background: url('./img/2a9n.gif') no-repeat;
+    background-size: cover;
+    width:300px;
+    height: 300px;
+    position: absolute;
+}
